@@ -1,0 +1,4 @@
+SIXTY - 6 Tries
+SHIFT - 4 Tries
+GRAIL - Failed
+MAZER - 6 Tries
