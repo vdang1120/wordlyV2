@@ -136,7 +136,7 @@ public class CSWordleGame extends JFrame {
 
         // grid panel
         JPanel gridPanel = new JPanel(new GridLayout(MAX_ATTEMPTS, WORD_LENGTH, 5, 5));
-        gridPanel.setBorder(BorderFactory.createEmptyBorder(10, 10, 10, 10));
+        gridPanel.setBorder(BorderFactory.createEmptyBorder(5, 5, 5, 5));
         gridPanel.setBackground(Color.BLACK);
 
         // bottom panel, you can use html :O
