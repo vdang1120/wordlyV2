@@ -1,7 +1,0 @@
-LOGIC - 5 Tries
-LEGGO - 4 Tries
-PELTS - 5 Tries
-MOUSY - Failed
-CHILL - 5 Tries
-SHEAR - 6 Tries
-PARSE - 2 Tries
